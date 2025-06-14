@@ -1,8 +1,49 @@
-# React + Vite
+# Interactive Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **Interactive Quiz App** is a responsive, single-page application designed with **React**, **JavaScript**, and **CSS**.  
+It lets players:
 
-Currently, two official plugins are available:
+✅ Provide their name and select a quiz category and difficulty.  
+✅ Take a timed quiz with multiple-choice questions.  
+✅ View their score and a motivational message upon finishing.  
+✅ See a leaderboard of previous attempts (stored in LocalStorage).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🌟 Features
+
+- User registration with name, category, and difficulty
+- 15-second timer for each question
+- Immediate feedback for answers (right or wrong)
+- Score summary with motivational messages
+- Leaderboard with past scores, time taken, and date
+- Responsive UI with fixed-top navigation and a hamburger menu for small screens
+
+---
+
+## 🛠 Tech Stack
+
+- **Framework:** React
+- **Language:** JavaScript (ES6+)
+- **Design:** HTML, CSS
+- **Storage:** LocalStorage
+- **Routing:** React Router
+
+---
+
+## 🚀 Live Demo
+
+Check out the live version of the project here:  
+👉 [Live Demo](https://harshtechpioneers.github.io/Cara-Ecommerce/)
+
+---
+
+## 🙋‍♀ About Developer
+
+Hi, I'm Harsh Raj, a passionate B.Tech student from Dr. CV Raman University, Vaishali, Bihar.
+I love designing interactive and functional web applications.
+This project reflects my skills in React, JavaScript, and Front-end Development.
+I'm eager to learn more and contribute to challenging projects in the future.
+
+
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/harshraj94) 
