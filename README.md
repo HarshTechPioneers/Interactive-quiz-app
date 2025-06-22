@@ -31,6 +31,13 @@ It lets players:
 
 ---
 
+## 🚀 Live Demo
+
+Check out the live version of the project here:  
+👉 [Live Demo](https://interactive-quiz-app-six.vercel.app/)
+
+---
+
 ## 🙋‍♀ About Developer
 
 Hi, I'm Harsh Raj, a passionate B.Tech student from Dr. CV Raman University, Vaishali, Bihar.
